@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+ I'm a high school student in Romania, passionate about coding in c++.
 <!--
 **Ionut4428/Ionut4428** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
